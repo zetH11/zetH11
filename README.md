@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zetH11
+- 👋 Hi, I’m Sonny
 - 👀 I’m interested in AI, codimg
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Coding
